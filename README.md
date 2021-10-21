@@ -1,4 +1,4 @@
-# python-guanabara
+# Curso de Python 3, Mundo 1 [40h] - https://www.cursoemvideo.com/curso/python-3-mundo-1/
 
 # ex005: Informar número inteiro, para obter seu antecessor e seu sucessor.
 # ex006: Criar um algoritimo que leia um número, e mostre seu dobro, triplo, e raiz quadrada.
