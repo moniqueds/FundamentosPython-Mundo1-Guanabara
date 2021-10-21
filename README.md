@@ -9,3 +9,5 @@
 # ex011: Informar altura, e largura de uma parede em metros, para calcular a area, e a quantidade de tinta necessária para pintar, sabendo que cada litro de tinta, pinta 2m².
 # ex012: Ler o preço de um produto e mostrar seu novo valor considerando desconto de 5%.
 # ex013: Ler o salário de um funcionário, e calcular o novo salário com 15% de aumento.
+# ex014: converter graus celsius para fahrenheit.
+# ex015:  Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.
