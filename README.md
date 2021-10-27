@@ -17,12 +17,12 @@
 # ex019: Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome deles e escrecendo o nome escolhido.
 # ex020: O mesmo professor do desafio anterior quer sortear a ordem de apresenção de trabalhos dos alunos. Faça um programa que leio o nome dos quatros alunos, e mostre a ordem sorteada.
 # ex021: Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3. 
-# ex022: 
-#	ex23: 
-#	ex24
-#	ex25
-#	ex26
-#	ex27
+# ex022: Crie um programa que leia o nome completo de uma pessoa e mostre: * o nome com todos as letras maiúsculas; * o nome com todas as letrás minúsculas; * Quantas letras ao td sem considerar espaços tem; * Quantas letras tem o primeiro nome.
+#	ex23: Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados. ex: digite um número: 1834 unidade: 4 dezena: 3 centena: 8 milhar: 1
+#	ex24: Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "Santo".
+#	ex25: Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
+#	ex26: Faça um programa que leia uma frase pelo teclado e mostre: Quantas vezes aparece a letra "A"; * Em que posição aparece a primeira vez; * Em que posição aparece a última vez;
+#	ex27: Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente. Exemplo: Ana Maria de Souza Primeiro: Ana Último: Souza.
 #	ex28
 #	ex29
 #	ex30
