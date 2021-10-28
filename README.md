@@ -18,23 +18,23 @@
 # ex020: O mesmo professor do desafio anterior quer sortear a ordem de apresenção de trabalhos dos alunos. Faça um programa que leio o nome dos quatros alunos, e mostre a ordem sorteada.
 # ex021: Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3. 
 # ex022: Crie um programa que leia o nome completo de uma pessoa e mostre: * o nome com todos as letras maiúsculas; * o nome com todas as letrás minúsculas; * Quantas letras ao td sem considerar espaços tem; * Quantas letras tem o primeiro nome.
-#	ex23: Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados. ex: digite um número: 1834 unidade: 4 dezena: 3 centena: 8 milhar: 1
-#	ex24: Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "Santo".
-#	ex25: Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
-#	ex26: Faça um programa que leia uma frase pelo teclado e mostre: Quantas vezes aparece a letra "A"; * Em que posição aparece a primeira vez; * Em que posição aparece a última vez;
-#	ex27: Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente. Exemplo: Ana Maria de Souza Primeiro: Ana Último: Souza.
-#	ex28
-#	ex29
-#	ex30
-#	ex31
-#	ex32
-#	ex33
-#	ex34
-#	ex35
-#	ex36
-#	ex37
-#	ex38
-#	ex39
+# ex23: Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados. ex: digite um número: 1834 unidade: 4 dezena: 3 centena: 8 milhar: 1
+# ex24: Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "Santo".
+# ex25: Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
+# ex26: Faça um programa que leia uma frase pelo teclado e mostre: Quantas vezes aparece a letra "A"; * Em que posição aparece a primeira vez; * Em que posição aparece a última vez.
+# ex27: Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente. Exemplo: Ana Maria de Souza Primeiro: Ana Último: Souza.
+# ex28: Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5, e peça para o usuário descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
+# ex29 : Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80km/H, mostre a mensagem dizendo que ele foi multado. A multa vai custar R$ 7,00 por cada KM acima do limite.
+# ex30: Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.
+# ex31: Desenvolva um programa que pergunte a distância de uma viagem em KM. Calcule o preço da passagem, cobrando R$ 0,50 por KM, para viagens de até 200KM, e R$ 0,45 para viagens mais longas.
+# ex32: Faça um programa que leia um ano qualquer, e mostre se ele é BISSEXTO.
+# ex33: Faça um programa que leia três números e mostre qual é maior e qual é o menor.
+# ex34: Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. para salários superiores a R$ 1.250,00 calcule um aumento de 10%. Para os inferiores ou iguais o aumento é de 15%.
+# ex35: Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
+# ex36: 
+# ex37: 
+# ex38: 
+# ex39: 
 #	ex40
 #	ex41
 #	ex42
