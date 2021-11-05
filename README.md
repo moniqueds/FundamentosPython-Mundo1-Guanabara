@@ -31,6 +31,7 @@
 # ex33: Faça um programa que leia três números e mostre qual é maior e qual é o menor.
 # ex34: Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. para salários superiores a R$ 1.250,00 calcule um aumento de 10%. Para os inferiores ou iguais o aumento é de 15%.
 # ex35: Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
+# USO DE CORES
 # ex36: 
 # ex37: 
 # ex38: 
