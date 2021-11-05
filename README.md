@@ -1,4 +1,4 @@
-# Curso de Python 3, Mundo 1 [40h] - https://www.cursoemvideo.com/curso/python-3-mundo-1/
+# Curso de Python 3, Mundo 1 [40h] - https://www.cursoemvideo.com/curso/python-3-mundo-1/ - FUNDAMENTOS DO PYTHON
 
 # ex005: Informar número inteiro, para obter seu antecessor e seu sucessor.
 # ex006: Criar um algoritimo que leia um número, e mostre seu dobro, triplo, e raiz quadrada.
@@ -32,70 +32,3 @@
 # ex34: Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. para salários superiores a R$ 1.250,00 calcule um aumento de 10%. Para os inferiores ou iguais o aumento é de 15%.
 # ex35: Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
 # USO DE CORES
-# ex36: 
-# ex37: 
-# ex38: 
-# ex39: 
-#	ex40
-#	ex41
-#	ex42
-#	ex43
-#	ex44
-#	ex45
-#	ex46
-#	ex47
-#	ex48
-#	ex49
-#	ex50
-#	ex51
-#	ex52
-#	ex53
-#	ex54
-#	ex55
-#	ex56
-#	ex57
-#	ex58
-#	ex59
-#	ex60
-#	ex61
-#	ex62
-#	ex63
-#	ex64
-#	ex65
-#	ex66
-#	ex67
-#	ex68
-#	ex69
-#	ex70
-#	ex71
-#	ex72
-#	ex73
-#	ex74
-#	ex75
-#	ex76
-#	ex77
-#	ex78
-#	ex79
-#	ex80
-#	ex81
-#	ex82
-#	ex83
-#	ex84
-#	ex85
-#	ex86
-#	ex87
-#	ex88
-#	ex89
-#	ex90
-#	ex91
-#	ex92
-#	ex93
-#	ex94
-#	ex95
-#	ex96
-#	ex97
-#	ex98
-#	ex99
-#	ex100
-![image](https://user-images.githubusercontent.com/89393449/138687604-f296b368-7cd9-4f25-be5c-8b54e15375a2.png)
-
